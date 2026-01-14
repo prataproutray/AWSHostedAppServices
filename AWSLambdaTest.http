@@ -1,0 +1,6 @@
+@AWSLambdaTest_HostAddress = http://localhost:5100
+
+GET {{AWSLambdaTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K5hjkuaQu4FQrbsCx4aiCvA3pIQT+JsYMZEm3dQwy7c=",
+  "Source": "AWSLambdaTest",
+  "BasePath": "_content/AWSLambdaTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
