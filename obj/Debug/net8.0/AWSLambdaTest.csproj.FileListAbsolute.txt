@@ -30,3 +30,4 @@
 /home/pratap/pratap/DotNetProjects/AWS/AWSLambdaTest/obj/Debug/net8.0/AWSLambdaTest.pdb
 /home/pratap/pratap/DotNetProjects/AWS/AWSLambdaTest/obj/Debug/net8.0/AWSLambdaTest.genruntimeconfig.cache
 /home/pratap/pratap/DotNetProjects/AWS/AWSLambdaTest/obj/Debug/net8.0/ref/AWSLambdaTest.dll
+/home/pratap/pratap/DotNetProjects/AWS/AWSLambdaTest/obj/Debug/net8.0/AWSLambdaTest.sourcelink.json
